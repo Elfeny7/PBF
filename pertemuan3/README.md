@@ -25,7 +25,11 @@ import { Gallery } from "./components/gallery";
 
 ## Praktikum 3
 ### Sebelum
-![gambar23](img/31.png)
+![gambar31](img/31.png)
 ### Sesudah diperbaiki
-![gambar23](img/32.png)
+![gambar32](img/32.png)
 ### Pada jsx ternyata harus ada sebuah div atau <></> yang membungkus semua kode program di dalamnya. Pada kasus ini saya namai dengan container. Lalu kita tidak bisa menggunakan class="" tetapi menggunakan className="" dan yang terakhir terdapat penambahan penutupan tag yang hilan dan salah tempat.
+## Soal no 5
+![gambar33](img/33.png)
+### Tidak ada perbedaan dari tampilan
+
