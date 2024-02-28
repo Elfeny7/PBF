@@ -42,7 +42,19 @@ import { Gallery } from "./components/gallery";
 
 # Praktikum 4
 ## Soal 7
-![gambar36](img/41.png)
+![gambar41](img/41.png)
 ### Terdapat fungsi getImageUrl yang mempunyai props berupa id gambar untuk mendapatkan gambar hanya dengan menginputkan id gambar pada fungsi getImageUrl tersebut.
 
 ## Soal 8
+### Hasil
+![gambar42](img/42.png)
+### Kode program
+![gambar43](img/43.png)
+### destructuring pada jsx dan tsx sedikit berbeda karena di tsx menggunakan interface. Meskipun tidak menyebabkan error saat dirender tetapi pada tsx terdapat notifikasi error
+
+## Soal 9
+### Hasil
+![gambar44](img/44.png)
+### Kode Program
+![gambar45](img/45.png)
+### Bisa kita lihat bahwa card ini membungkus MyProfileV2 yang di mana card saya beri background biru. Pada tsx juga disarankan untuk mengimport ReactNode, jika tidak terdapat notifikasi error meskipun masih bisa dirender. Intinya tsx ini lebih aman dan lebih komunikatif dari segi efektivitas dan efisiensi.
