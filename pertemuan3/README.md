@@ -39,3 +39,10 @@ import { Gallery } from "./components/gallery";
 ![gambar35](img/35.png)
 ![gambar36](img/36.png)
 ### Tidak lupa menambahkan garis miring atau / agar gambar bia muncul
+
+# Praktikum 4
+## Soal 7
+![gambar36](img/41.png)
+### Terdapat fungsi getImageUrl yang mempunyai props berupa id gambar untuk mendapatkan gambar hanya dengan menginputkan id gambar pada fungsi getImageUrl tersebut.
+
+## Soal 8
