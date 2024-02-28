@@ -1,7 +1,10 @@
 import Image from "next/image";
 
+const baseUrl = 'https://i.imgur.com'
 const person = {
   name: 'Gregorio Y. Zara',
+  imageId: '7vQD0fP',
+  imageSize: 'b',
   theme: {
     backgroundColor: 'black',
     color: 'pink'
@@ -13,12 +16,10 @@ export default function TodoList() {
   return (
     <div style={person.theme}>
       <h1>{person.name}&apos; Todos</h1>
-      <Image
+      <img
         className="object-center"
-        src={person.image}
-        width={100}
-        height={100}
-        alt="Gregorio Y. Zara"
+        src={`${baseUrl}/${person.imageId}${person.imageSize}.jpg`}
+        alt={person.name}
       />
       <ul>
         <li>Improve the videophone</li>

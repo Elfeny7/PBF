@@ -29,7 +29,13 @@ import { Gallery } from "./components/gallery";
 ### Sesudah diperbaiki
 ![gambar32](img/32.png)
 ### Pada jsx ternyata harus ada sebuah div atau <></> yang membungkus semua kode program di dalamnya. Pada kasus ini saya namai dengan container. Lalu kita tidak bisa menggunakan class="" tetapi menggunakan className="" dan yang terakhir terdapat penambahan penutupan tag yang hilan dan salah tempat.
+
 ## Soal no 5
 ![gambar33](img/33.png)
 ### Tidak ada perbedaan dari tampilan
 
+## Soal no 6
+![gambar34](img/34.png)
+![gambar35](img/35.png)
+![gambar36](img/36.png)
+### Tidak lupa menambahkan garis miring atau / agar gambar bia muncul
