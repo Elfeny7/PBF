@@ -42,7 +42,7 @@ import { Gallery } from "./components/gallery";
 
 # Praktikum 4
 ## Soal 7
-![gambar41](img/41.png)
+![gambar46](img/46.png)
 ### Terdapat fungsi getImageUrl yang mempunyai props berupa id gambar untuk mendapatkan gambar hanya dengan menginputkan id gambar pada fungsi getImageUrl tersebut.
 
 ## Soal 8
