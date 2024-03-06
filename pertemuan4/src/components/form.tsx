@@ -15,7 +15,7 @@ export default function Form() {
         try {
             await submitForm(jawaban);
             setStatus('success');
-        } catch (err) {
+        } catch (err: any) {
             setStatus('typing');
             setError(err);
         }
@@ -57,16 +57,15 @@ function submitForm(jawaban: any) {
 export function Form_2() {
     const [firstName, setFirstName] = useState('');
     const [lastName, setLastName] = useState('');
-    const [fullName, setFullName] = useState('');
 
-    function handleFirstNameChange(e) {
+    const fullName = firstName + ' ' + lastName;
+
+    function handleFirstNameChange(e: any) {
         setFirstName(e.target.value);
-        setFullName(e.target.value + ' ' + lastName);
     }
 
-    function handleLastNameChange(e) {
+    function handleLastNameChange(e: any) {
         setLastName(e.target.value);
-        setFullName(firstName + ' ' + e.target.value);
     }
 
     return (

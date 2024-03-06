@@ -35,6 +35,8 @@
 ![gambar](img/p5-2.png)
 ![gambar](img/p5-3.png)
 ![gambar](img/p5-4.png)
+### 1. Perbedaannya adalah form_2 yang kedua lebih simple dan tidak terjadi redundansi. Jadi lebih efektif dan eifisien.
+### 2. Karena sebenarnya kita tidak memerlukan fullName, hanya dengan menggunakan firstName dan lastName saja sudah cukup untuk membuat full name tanpa fullName.
 
 ## Praktikum 6
 ![gambar](img/p6-1.png)

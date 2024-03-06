@@ -22,9 +22,12 @@ export default function Home() {
       </div>
       <br />
       <Gallery />
+      <br /><br />
       <Form />
       <Form_2 />
+      <br /><br />
       <Accordion />
+      <br /><br />
       <Messenger />
     </>
   );
