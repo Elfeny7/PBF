@@ -22,9 +22,21 @@
 ## Praktikum 4
 ![gambar](img/p4-1.png)
 ![gambar](img/p4-2.png)
+### jika sebanyak lebih dari 5 kali akan terjadi error karena index pada sculptureList hanya sampai 5 index yaitu 0-4.
+## Modifikasi Program
+![gambar](img/p4-3.png)
+![gambar](img/p4-4.png)
+![gambar](img/p4-5.png)
+![gambar](img/p4-6.png)
+### Jadi saya menambahkan fungsi handleClickBack untuk mengurangi index dan membuat pernyataan bahwa jika indek kurang dari 4 maka tampilkan selanjutnya, jika index lebih dari 0 maka tampilkan sebelumnya. kedua if ini berjalan secara terpisah, jadi jika kedua kondisi ini terpenuhi maka kedua tombol akan tampil.
 
 ## Praktikum 5
 ![gambar](img/p5-1.png)
 ![gambar](img/p5-2.png)
 ![gambar](img/p5-3.png)
 ![gambar](img/p5-4.png)
+
+## Praktikum 6
+![gambar](img/p6-1.png)
+![gambar](img/p6-2.png)
+![gambar](img/p6-3.png)
