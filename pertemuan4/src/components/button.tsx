@@ -21,3 +21,12 @@ export function Tombol_2({ isiPesan, namaTombol }: any) {
         </button>
     );
 }
+
+export function Tombol_3({ isiPesan, namaTombol }: any) {
+    return (
+        <button className="bg-green-500 hover:bg-green-700 text-white p-2 rounded"
+        onClick={(e) => {e.stopPropagation(); alert(isiPesan)}}>
+            {namaTombol}
+        </button>
+    );
+}

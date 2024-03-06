@@ -13,3 +13,8 @@
 ![gambar](img/p2-2.png)
 ![gambar](img/p2-3.png)
 ### Jadi tombol 2 dapat menerima prop karena button tersebut juga function. dengan menambahkan props isiPesan dan namaTombol yang berupa any, kita dapat memasukkan pesan dan nama tombol saat memanggil button 2.
+
+## Praktikum 3
+![gambar](img/p3-1.png)
+![gambar](img/p3-2.png)
+![gambar](img/p3-3.png)
