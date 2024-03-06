@@ -10,3 +10,5 @@
 
 ## Praktikum 1
 ![gambar](img/p2-1.png)
+![gambar](img/p2-2.png)
+![gambar](img/p2-3.png)
