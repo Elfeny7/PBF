@@ -42,3 +42,4 @@
 ![gambar](img/p6-1.png)
 ![gambar](img/p6-2.png)
 ![gambar](img/p6-3.png)
+### sepengertian saya, dengan memberi key yang berupa email akan mengatur ulang input dari text area tersebut. Jika tidak diberi key maka ketika kita input pesan di textarea pada salah satu kontak, jika kita mengganti kontak maka input tersebut masih tersimpan, dan hal ini dapat membuat kita salah kirim pesan. Dengan memberi key tersebut, input text area akan hilang dan diatur ulang jika kita mengganti kontak

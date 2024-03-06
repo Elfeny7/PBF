@@ -47,7 +47,7 @@ export default function Messenger() {
             <table className='w-1/2 text-sm text-left text-gray-500 dark:text-gray-400'>
                 <thead className='text-xs tex-gray-700 uppercase bg-gray-50 dark:bg-gray-200 dark:text-gray-400'>
                     <tr>
-                        <th scope='col' className='px-2 py-4'>Kontak Kontak</th>
+                        <th scope='col' className='px-2 py-4'>Kontak</th>
                         <th scope='col' className='px-2 py-4'>Pesan</th>
                     </tr>
                 </thead>
@@ -57,7 +57,7 @@ export default function Messenger() {
                             <ContactList contacts={contacts} selectedContact={to} onSelect={(contact: any) => setTo(contact)} />
                         </td>
                         <td>
-                            <Chat contact={to} />
+                            <Chat key={to.email} contact={to} />
                         </td>
                     </tr>
                 </tbody>
