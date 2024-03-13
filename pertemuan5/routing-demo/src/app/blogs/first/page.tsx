@@ -3,3 +3,4 @@ export default function FirstBlog() {
           <h1>First Blog</h1>
     );
   }
+  
