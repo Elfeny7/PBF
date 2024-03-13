@@ -1,6 +1,11 @@
+import Link from "next/link";
+
 export default function Blog() {
-    return (
-          <h1>Blog</h1>
-    );
-  }
-  
+      return (
+            <div>
+                  <h1>Blogs</h1>
+                  <br />
+                  <Link href='/blogs/urutan'>Lihat Urutan</Link>
+            </div>
+      );
+}

@@ -34,5 +34,15 @@
 ![gambar](images/p3-7.png)
 
 ## Praktikum 4
+![gambar](images/p4-1.png)
+![gambar](images/p4-2.png)
+## To Do
+### Menambahkan link yang sebelumnya telah dibuat
+![gambar](images/p4-3.png)
+![gambar](images/p4-4.png)
+![gambar](images/p4-5.png)
+![gambar](images/p4-6.png)
+![gambar](images/p4-7.png)
+
 
 

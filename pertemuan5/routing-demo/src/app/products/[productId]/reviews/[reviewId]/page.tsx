@@ -6,6 +6,6 @@ type Props = {
   
   export default function ReviewDetails({ params }: Props) {
     return (
-          <h1>Details about review {params.reviewId}</h1>
+          <h1>Selamat datang di halaman {params.reviewId}</h1>
     )
   }

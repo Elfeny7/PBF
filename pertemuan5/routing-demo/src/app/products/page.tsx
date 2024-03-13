@@ -1,10 +1,16 @@
+import Link from "next/link";
+
 export default function ProductList() {
-    return (
-          <div>
-            <h1>Product List</h1>
-            <h2>Product 1</h2>
-            <h2>Product 2</h2>
-            <h2>Product 3</h2>
-          </div>
-    );
-  }
+  return (
+    <div>
+      <h1>List Produk Kami</h1>
+      <Link href='/products/mobil'>Mobil</Link>
+      <br />
+      <Link href='/products/motor'>Motor</Link>
+      <br />
+      <Link href='/products/pesawat'>Pesawat</Link>
+      <br />
+      <Link href='/products/helikopter'>Helikopter</Link>
+    </div>
+  );
+}
