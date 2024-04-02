@@ -19,3 +19,7 @@
 ## Praktikum 5
 ![gambar](images/p5-1.png)
 ![gambar](images/p5-2.png)
+## Praktikum 6
+![gambar](images/p6-1.png)
+![gambar](images/p6-2.png)
+## Praktikum 7
