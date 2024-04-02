@@ -4,3 +4,7 @@
 
 ## Praktikum 1
 ![gambar](images/p1-1.png)
+![gambar](images/p1-2.png)
+![gambar](images/p1-3.png)
+## Praktikum 2
+![gambar](images/p2-1.png)
