@@ -23,3 +23,5 @@
 ![gambar](images/p6-1.png)
 ![gambar](images/p6-2.png)
 ## Praktikum 7
+![gambar](images/p7-1.png)
+![gambar](images/p7-2.png)
