@@ -1,3 +1,4 @@
+'use client';
 import Image from "next/image";
 import MainPage from "@/components/templates/main_page"
 
