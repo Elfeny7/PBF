@@ -4,10 +4,12 @@ import { useContext } from "react";
 export default function Heading({ children }: { children: any }) {
     const level = useContext(LevelContext);
     switch (level) {
+        case 0:
+            throw Error('Heading must be inside a Secrion!')
         case 1:
-            return <h1>{children}</h1>;
+            return <h1 className="text-red-500">{children}</h1>;
         case 2:
-            return <h2>{children}</h2>;
+            return <h2 className="text-blue-500">{children}</h2>;
         case 3:
             return <h3>{children}</h3>;
         case 4:
